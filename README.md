@@ -22,3 +22,9 @@ Examining and refining requirements to ensure they are feasible, unambiguous, pr
 Confirming that documented requirements align with business objectives and user needs through stakeholder reviews, prototyping, and acceptance criteria verification.
 
 Types of Requirements
+
+
+Use Case Diagrams
+
+
+Acceptance Criteria
